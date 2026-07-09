@@ -15,6 +15,9 @@
 - **Centralized Backups** — `.def.bak` stored in `backups/<game_id>/`, not in your M.U.G.E.N folder.
 - **Session Persistence** — remembers your M.U.G.E.N root, filters, bank, and UI state.
 
+![](https://raw.githubusercontent.com/deenbee/bgm_forge/main/screenshot/shot1.png)
+
+
 ## Requirements
 
 - Windows (tested on 10 / 11)
