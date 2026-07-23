@@ -17,7 +17,9 @@
 
 ![](https://raw.githubusercontent.com/deenbee/bgm_forge/main/screenshot/shot1.png)  
 
-![](https://raw.githubusercontent.com/deenbee/bgm_forge/main/screenshot/shot2.png)
+![](https://raw.githubusercontent.com/deenbee/bgm_forge/main/screenshot/shot7.png)  
+
+![](https://raw.githubusercontent.com/deenbee/bgm_forge/main/screenshot/shot8.png)  
 
 ![](https://raw.githubusercontent.com/deenbee/bgm_forge/main/screenshot/shot3.png)  
 
